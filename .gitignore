@@ -1,0 +1,5 @@
+papermod-hugo/public/
+pepermod-lume/_site/
+node_modules/
+.DS_Store
+.env
